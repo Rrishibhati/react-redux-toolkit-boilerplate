@@ -1,0 +1,23 @@
+.counter-conatainer {
+  display: flex;
+}
+
+.counter-conatainer button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #0bb80b;
+  border: none;
+  padding: 12px;
+}
+
+.counter-conatainer .counter-value {
+  color: #000;
+  text-align: center;
+  background-color: #d1f4e4;
+  min-width: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 34px;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=index.16852e41.css.map */

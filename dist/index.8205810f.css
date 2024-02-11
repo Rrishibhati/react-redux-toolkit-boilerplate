@@ -1,0 +1,19 @@
+.counter-container {
+  display: flex;
+}
+
+.counter-container button {
+  color: #fff;
+  background-color: green;
+  width: 90px;
+}
+
+.counter-container .counter-value {
+  color: #000;
+  background-color: #d3d3d3;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=index.8205810f.css.map */
